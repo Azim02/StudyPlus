@@ -53,7 +53,7 @@ function preload(){
 //setup function -
 function setup(){
   //creating the canvas
-  createCanvas(displayWidth, 9500);
+  createCanvas(windowWidth, 9500);
 
 
   //creating the slides -
